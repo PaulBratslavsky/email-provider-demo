@@ -131,7 +131,7 @@ Using the following command, let's install our provider:
 
 Inside your code editor, navigate to your  `config` folder, if the `plugins.js` file does not exist, go ahead and create one. 
 
-![[2023-03-29_11-24-07.png]]
+![2023-03-29_11-24-07](https://user-images.githubusercontent.com/6153188/228630309-fadfcd2c-fc96-4241-9355-eaf6a9fc8c8c.png)
 
 Inside the `plugins.js` file add the following configuration:
 
