@@ -208,6 +208,8 @@ Once the deployment is done, let's log into our Strapi Cloud instance and see if
 
 Great, we can now use our SendGrid email provider to send emails. 
 
+You can find the project repo [here](https://github.com/PaulBratslavsky/email-provider-demo)
+
 ## Conlcusion
 
 Hope you enjoyed this tutorial.
